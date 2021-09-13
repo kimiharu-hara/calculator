@@ -1,0 +1,20 @@
+#result {
+    background-color: #000000;
+    color:#FFFFFF;
+    width:200px;
+    text-align: right
+}
+
+.line {
+    width:300px;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.button {
+    width: 48px;
+}
+
+.button.last {
+    width: 102px;
+}
